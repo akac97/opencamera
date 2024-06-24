@@ -44,7 +44,7 @@ android {
 }
 
 dependencies {
-    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.0'
 
     // appcompat version must be 1.4.0 or later to satisfy emoji policy!
     implementation 'androidx.appcompat:appcompat:1.6.1'
